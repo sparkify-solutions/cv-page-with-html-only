@@ -1,4 +1,4 @@
-# Learn How To Create A CV Page With HTML Only
+# LEARN HOW TO CREATE A CV PAGE WITH HTML ONLY
 <p>A brief overview of how to create a CV page using HTML only.</p>
 <ul>
 <li>Set the background color to sea green.</li>
